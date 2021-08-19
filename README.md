@@ -20,7 +20,6 @@ conda install neha-probability-distribution
 PyPI link: https://pypi.org/manage/project/neha-probability-distribution/
 
 ## Testing.
-For this test version of the package I would recommend running it on a [Virtual Environment](https://docs.python-guide.org/dev/virtualenvs/)
 ```
 pip install -i https://test.pypi.org/simple/ neha-probability-distribution/
 ```
